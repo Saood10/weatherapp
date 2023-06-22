@@ -1,0 +1,31 @@
+body{
+
+    font-size: x-large;
+
+}
+form{
+
+    float: right;
+}
+.btn{
+
+    padding: 1rem;
+    margin: 1rem 0 ;
+    border: 1px solid rgb(111, 73, 250);
+    border-radius: 2rem;
+    background-color: rgb(111, 73, 250);
+    color: aliceblue;
+
+
+}
+
+input{
+
+    padding: 1rem ;
+    margin: 1rem 0 ;
+    border: 1px solid rgb(111, 73, 250);
+    border-radius: 2rem;
+    text-align: center;
+    color: rgb(6, 6, 8);
+    
+}
