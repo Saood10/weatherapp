@@ -3,10 +3,21 @@ body{
     font-size: x-large;
 
 }
-form{
+.cont{
 
     float: right;
 }
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+    margin-top:  20%;
+}
+
+
+
+
 .btn{
 
     padding: 1rem;
@@ -29,3 +40,4 @@ input{
     color: rgb(6, 6, 8);
     
 }
+
